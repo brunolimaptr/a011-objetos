@@ -20,7 +20,7 @@ pokemon2.ataques
 
 console.log(pokemon2)
 
-pokemon1.ataques.push = {nome: "folha navalha", dano: 45, precisão: 100, tipo: "grama"}
+pokemon1.ataques = {nome: "folha navalha", dano: 45, precisão: 100, tipo: "grama"}
 pokemon2.ataques = {nome: "jato de água", dano: 40, precisão: 100, tipo: "água"}
 
 console.log(pokemon1,pokemon2)
